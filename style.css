@@ -992,6 +992,6 @@ body {
 .not-loaded * {
   animation-play-state: paused !important;
 }
-.tiktok-embed{
-  opacity: 40%;
+#fb{
+  opacity: 50%;
 }
